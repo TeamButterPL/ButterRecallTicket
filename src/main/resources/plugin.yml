@@ -1,5 +1,5 @@
 name: ButterRecallTicket
-version: '1.0.0'
+version: '1.0.1'
 main: kr.dalkubi.ButterRecallTicket.ButterRecallTicket
 api-version: '1.17'
 commands:
