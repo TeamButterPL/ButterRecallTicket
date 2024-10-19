@@ -1,0 +1,7 @@
+name: ButterRecallTicket
+version: '1.0.0'
+main: kr.dalkubi.ButterRecallTicket.ButterRecallTicket
+api-version: '1.17'
+commands:
+  귀환서:
+    description: 귀환서 명령어
