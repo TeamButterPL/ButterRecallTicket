@@ -43,6 +43,7 @@ public class ManageTicket {
             if (meta != null) {
                 meta.setDisplayName(displayName);
                 meta.setLore(lore);
+                meta.setCustomModelData(customModelData);
                 ticketItem.setItemMeta(meta);
             }
 
